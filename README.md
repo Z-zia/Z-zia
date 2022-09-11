@@ -1,3 +1,21 @@
+<p align="left">
+  <a href="https://github.com/Z-zia/Z-zia/">
+    <img src="https://komarev.com/ghpvc/?username=Z-zia" alt="Z-zia" />
+  </a>
+  <a href="http://twitter.com/ziadon_com">
+    <img height="20" src="https://img.shields.io/twitter/follow/ziadon_com?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/Z-zia">
+    <img height="20" src="https://img.shields.io/github/followers/Z-zia?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/ziadon">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ziadon/posts.svg" />
+  </a>
+  <//qiita.com/ziadon">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ziadon/contributions.svg" />
+  </a>
+</p>
+
 ### Hi there 👋
 
 <!--
@@ -13,4 +31,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+<!--
+referred to
+
+https://zenn.dev/yutakatay/articles/kirakira-github-profile
 -->
