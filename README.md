@@ -27,13 +27,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-zia)](https://github.com/Z-zia/github-readme-stats)
 -->
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Z-zia&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Z-zia&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Z-zia&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Z-zia&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Z-zia&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Z-zia&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Z-zia&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Z-zia&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Z-zia&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Z-zia&theme=vue&utcOffset=8)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-zia&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-zia&show_icons=true&theme=vue)
 
 
 <h3 align="left">Languages and Tools:</h3>
